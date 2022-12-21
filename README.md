@@ -2,3 +2,4 @@
 1. understanding DOM
 2. Dice Game
 3. Drum Kit 
+4. jQuery
