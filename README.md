@@ -3,3 +3,4 @@
 2. Dice Game
 3. Drum Kit 
 4. jQuery
+5. Simon Game
