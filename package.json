@@ -1,15 +1,15 @@
 {
-  "name": "my-express-server",
+  "name": "calculator",
   "version": "1.0.0",
-  "description": "My 1st express server",
-  "main": "server.js",
+  "description": "Calculator Web App",
+  "main": "calculator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shobhit Sinha",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.1",
     "express": "^4.18.2"
   }
 }
